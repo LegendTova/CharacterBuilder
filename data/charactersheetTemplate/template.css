@@ -1,0 +1,137 @@
+.scoresContainer {
+    float: left;
+	padding: 0.5%;
+	margin: 1%;
+    width: 5%;
+	background: red;
+	text-align: center;
+}
+
+.ability {
+	background: white;
+	text-align: center;
+}
+
+.checks{
+	float: left;
+	margin: 1%;
+	text-align: center;
+	width: 10%
+}
+
+.prof{
+	padding: 0.05%;
+	background: red;
+}
+
+.saves {
+	top: 20%;
+	padding: 0.05%;
+	background: red;
+}
+
+.skills{
+	top: 20%;
+	padding: 0.05%;
+	background: red;
+}
+
+.combatContainer{
+	float:left;
+	width:20%;
+}
+
+.combat{
+	float:left;
+	margin: 2%;
+	width:100%;
+}
+
+.AC{
+	float:left;
+	margin: 2%;
+	text-align: center;
+	background: red;
+	width: 20%;
+}
+
+.initiative{
+	float:left;
+	margin: 2%;
+	text-align: center;
+	background: red;
+	width: 20%;
+}
+
+.speed{
+	float:left;
+	margin: 2%;
+	text-align: center;
+	background: red;
+	width: 20%;
+}
+
+.HP {
+	float:left;
+	position:center;
+	margin: 2%;
+	padding: 0.5%;
+	text-align: center;
+	background: red;
+	width: 70%;
+}
+
+.hpMisc{
+	float:left;
+	margin: 2%;
+	width:100%;
+}
+
+.hitdice{
+	float:left;
+	margin: 2%;
+	text-align: center;
+	background: red;
+	width: 30%;
+}
+
+.deathsaves{
+	float:left;
+	margin: 2%;
+	text-align: center;
+	background: red;
+	width: 30%;
+}
+
+.equipment{
+	float:left;
+	position:center;
+	margin: 2%;
+	padding: 0.5%;
+	text-align: center;
+	background: red;
+	width: 70%;
+}
+
+.char{
+	float:left;
+	width: 20%;
+}
+
+.characteristics{
+	margin: 2%;
+	padding: 0.5%;
+	text-align: center;
+	background: red;
+}
+
+.features{
+	margin: 2%;
+	padding: 0.5%;
+	text-align: center;
+	background: red;
+}
+
+p{
+	font-size: 75%;
+}

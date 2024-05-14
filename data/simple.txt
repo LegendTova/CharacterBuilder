@@ -1,0 +1,14 @@
+Club
+Dagger
+Greatclub
+Handaxe
+Javelin
+Light hammer
+Mace
+Quarterstaff
+Sickle
+Spear
+Crossbow, light
+Dart
+Shortbow
+Sling
